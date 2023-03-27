@@ -53,6 +53,7 @@ int main(){
     cout << "\n\nLeyendo el archivo " << nombreArchivo << ".txt" << endl;
     leerArchivo(nombreArchivo);
     
+    cin.get();
     return 0;
 }
 
