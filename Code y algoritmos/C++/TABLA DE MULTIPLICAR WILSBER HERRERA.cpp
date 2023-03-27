@@ -14,6 +14,8 @@ main(){
 }else{
 	cout<<"el numero introducido es mayor a 9 o menor que 1"<<endl;
 }
+	
+	cin.get();
     return 0;
 }
 
