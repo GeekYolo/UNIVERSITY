@@ -24,6 +24,7 @@ int main(){
 	cout<<""<<endl;
 	cout<<"la suma es="<<suma<<endl;
 	
+	cin.get();
 	return 0;
 }
 
