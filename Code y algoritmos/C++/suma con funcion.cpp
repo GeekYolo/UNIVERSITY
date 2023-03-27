@@ -30,6 +30,7 @@ int main(){
 	cout<<""<<endl;
 	cout<<"la suma de ambos numeros es ="<<suma (num1, num2)<<endl;
 	
+	cin.get();
 	return 0;
 }
 
