@@ -30,6 +30,8 @@ int main(){
     
     cout<<"La suma de los numeros es: "<< suma <<endl;
     cout<<"El promedio es:"<<promedio <<endl;
+    
+    cin.get();
     return 0;
 }
 
