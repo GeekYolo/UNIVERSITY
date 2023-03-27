@@ -31,6 +31,8 @@ int main(){
     cout << "El promedio de edades ingresadas es: " << promedio << endl;
     
     getchar();
+	
+    cin.get();
     return 0;
 }
 
