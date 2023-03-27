@@ -33,6 +33,7 @@ int main()
     else
         cout << "Error al leer el archivo";
 
+    cin.get();
     return 0;
 }
 
