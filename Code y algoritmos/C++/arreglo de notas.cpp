@@ -17,6 +17,9 @@ int main (){
 		cin>>num1[i];
 	}
 	imprimir(num1);
+	
+	cin.get();
+	return 0;
 }
 
 //WILSBER HERRERA 282A4
