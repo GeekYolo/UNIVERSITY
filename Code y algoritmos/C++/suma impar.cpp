@@ -21,6 +21,8 @@ main(){
 	cout<<""<<endl;
 	cout<<"hasta luego"<<endl;
 	
+	
+	cin.get();
 	return 0;
 }
 
