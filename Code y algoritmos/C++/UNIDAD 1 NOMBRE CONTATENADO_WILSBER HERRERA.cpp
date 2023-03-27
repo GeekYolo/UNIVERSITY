@@ -12,6 +12,8 @@ int main() {
 	getline(cin,apell1);
 	completo = nom1 + " "+ apell1;
 	cout<<"su nombre completo es="<<completo;
+	
+	cin.get();
 	return 0;
 }
 //WILSBER HERRERA 282A4
